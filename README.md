@@ -1,1 +1,1 @@
-# Recognistion-of-MNIST-Handwritten
+# Principle-Component-Analysis
